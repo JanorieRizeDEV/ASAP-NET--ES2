@@ -1,0 +1,17 @@
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Application.deps.json
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Application.dll
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Application.pdb
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Domain.dll
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Persistence.dll
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Persistence.pdb
+C:\Amphoreus\src\Amphoreus.Application\bin\Debug\net9.0\Amphoreus.Domain.pdb
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.csproj.AssemblyReference.cache
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.AssemblyInfoInputs.cache
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.AssemblyInfo.cs
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.csproj.CoreCompileInputs.cache
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreu.DC8B3211.Up2Date
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.dll
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\refint\Amphoreus.Application.dll
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.pdb
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\ref\Amphoreus.Application.dll
