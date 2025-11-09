@@ -15,3 +15,4 @@ C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.dl
 C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\refint\Amphoreus.Application.dll
 C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.pdb
 C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\ref\Amphoreus.Application.dll
+C:\Amphoreus\src\Amphoreus.Application\obj\Debug\net9.0\Amphoreus.Application.sourcelink.json

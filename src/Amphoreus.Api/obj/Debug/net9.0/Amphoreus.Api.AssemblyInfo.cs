@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amphoreus.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff24b904f62a774b8f8e6df4c74571d2f12c8542")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amphoreus.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amphoreus.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

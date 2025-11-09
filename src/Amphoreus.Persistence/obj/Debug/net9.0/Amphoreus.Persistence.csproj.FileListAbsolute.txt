@@ -15,3 +15,4 @@ C:\Amphoreus\src\Amphoreus.Persistence\obj\Debug\net9.0\Amphoreus.Persistence.pd
 C:\Amphoreus\src\Amphoreus.Persistence\obj\Debug\net9.0\ref\Amphoreus.Persistence.dll
 C:\Amphoreus\src\Amphoreus.Persistence\bin\Debug\net9.0\Amphoreus.Persistence.runtimeconfig.json
 C:\Amphoreus\src\Amphoreus.Persistence\obj\Debug\net9.0\Amphoreus.Persistence.genruntimeconfig.cache
+C:\Amphoreus\src\Amphoreus.Persistence\obj\Debug\net9.0\Amphoreus.Persistence.sourcelink.json

@@ -161,3 +161,4 @@ C:\Amphoreus\src\Amphoreus.Api\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite
 C:\Amphoreus\src\Amphoreus.Api\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Amphoreus\src\Amphoreus.Api\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Amphoreus\src\Amphoreus.Api\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Amphoreus\src\Amphoreus.Api\obj\Debug\net9.0\Amphoreus.Api.sourcelink.json

@@ -9,3 +9,4 @@ C:\Amphoreus\src\Amphoreus.Domain\obj\Debug\net9.0\Amphoreus.Domain.dll
 C:\Amphoreus\src\Amphoreus.Domain\obj\Debug\net9.0\refint\Amphoreus.Domain.dll
 C:\Amphoreus\src\Amphoreus.Domain\obj\Debug\net9.0\Amphoreus.Domain.pdb
 C:\Amphoreus\src\Amphoreus.Domain\obj\Debug\net9.0\ref\Amphoreus.Domain.dll
+C:\Amphoreus\src\Amphoreus.Domain\obj\Debug\net9.0\Amphoreus.Domain.sourcelink.json

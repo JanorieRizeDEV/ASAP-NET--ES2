@@ -6,37 +6,37 @@ using System.Collections.Generic;
 namespace Amphoreus.Domain;
 public class Coffe : BaseEntity
 {
-    /// Display name of the coffee (required).
+    /// Nombre para mostrar del café (requerido).
     public required string Name { get; set; }
 
-    /// Optional description for the coffee.
+    /// Descripción opcional del café.
     public string? description { get; set; }
 
-    /// Price of the coffee in the configured currency.
+    /// Precio del café en la moneda configurada.
     public decimal price { get; set; }
 
-    /// Foreign key to the coffee category.
-    /// Keep the naming consistent with the rest of the domain.
+    /// Clave foránea a la categoría del café.
+    /// Mantén la nomenclatura consistente con el resto del dominio.
     public int cateogoryId { get; set; }
 
-    /// Optional image path or URL for the coffee.
+    /// Ruta o URL opcional de la imagen del café.
     public string? image { get; set; }
 
-    /// Navigation property to the <see cref="Category"/> this coffee belongs to.
-    /// Nullable when the relationship is optional or not yet loaded.
+    /// Propiedad de navegación a la <see cref="Category"/> a la que pertenece este café.
+    /// Nullable cuando la relación es opcional o no está cargada.
     public Category? Category { get; set; }
 
 
-    /// Collection navigation for ingredients directly associated with this coffee.
-    /// Initialized to an empty list to avoid null reference usage when enumerating.
+    /// Navegación de colección para los ingredientes asociados a este café.
+    /// Inicializada como lista vacía para evitar referencias nulas al iterar.
     public ICollection<Ingredient> Ingredients { get; set; } = new List<Ingredient>();
 
-    /// Collection navigation for the join entities linking coffees and ingredients.
-    /// Use this when you need access to additional payload on the relationship.
+    /// Navegación de colección para las entidades de unión que enlazan cafés e ingredientes.
+    /// Úsala cuando necesites acceder a datos adicionales en la relación.
     public ICollection<coffeIngredient> coffeIngredients { get; set; } = new List<coffeIngredient>();
 
-    /// Collection of related coffees (if the domain models related coffee groupings).
-    /// Initialized to an empty list to avoid null checks.
+    /// Colección de cafés relacionados (si el dominio modela agrupaciones de cafés).
+    /// Inicializada como lista vacía para evitar comprobaciones de null.
     public ICollection<Coffe> coffes { get; set; } = new List<Coffe>();
 
 }
